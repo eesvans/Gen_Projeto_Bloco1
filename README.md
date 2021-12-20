@@ -1,4 +1,4 @@
-## Projeto 1 Generation
+## Projeto 1- Generation Brasil
 
 <h1 align="center">CINE GEN 📽️</h1>
 
