@@ -85,5 +85,19 @@
 				</sub>
 			</a>
 		</td>
+		<td align="center">
+			<a href="https://github.com/AmandaMFurtado">
+				<img
+					width="100px"
+					height="auto"
+					src="https://avatars.githubusercontent.com/u/95697418?v=4"
+					alt="Amanda Furtado"
+				/>
+				<br />
+				<sub>
+					<b>Amanda Furtado</b>
+				</sub>
+			</a>
+		</td>
 	</tr>
 </table>
